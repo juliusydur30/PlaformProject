@@ -6,6 +6,6 @@ session_start();
 session_unset();
 session_destroy();
 
-header('location:SilverTik.html');
+header('location:login_form.php');
 
 ?>
